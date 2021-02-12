@@ -14,7 +14,7 @@
 
 <p title= piture"> Hey it looks like a paragraph, but there is a block box here too. Find that HTML  other than <p> and <h>element </p>
 
-<h2><a href=" index.html">This a link to shutterstock</a>
+<h2><a href=" index.html">https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg</a>
 </h2>
 
 <a href="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"></a>
@@ -66,7 +66,7 @@
 <td>="2"or"2px"</td>
 <td>="lightpink"</td>
 
-	</td>
+	
 </thed>
 </tbody>
 <tr>
